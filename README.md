@@ -11,7 +11,7 @@
   - [Mkdir](#mkdir)
   - [Touch](#touch)
 - [Errors](#errors)
-- [Complete Example](#complete\ example)
+- [Complete Example](#complete%20example)
 
 ## Summary
 - This exercise simulates a command line shell. It does not actually create any objects on physical disk. Instead, it maintains objects and state within the context of the running application.

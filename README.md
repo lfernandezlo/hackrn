@@ -2,6 +2,7 @@
 - [Summary](#summary)
 - [Author](#author)
 - [Dependencies](#dependencies)
+- [Application start](#application\ start)
 - [Commands](#commands)
   - [Quit](#quit)
   - [Cd](#cd)
@@ -13,10 +14,13 @@
 - [Complete Example](#complete\ example)
 
 ## Summary
-- This exercise simulates a command line shell. It does not actually create any objects on physical disk. Instead, it maintains objects and state within the context of the running application
+- This exercise simulates a command line shell. It does not actually create any objects on physical disk. Instead, it maintains objects and state within the context of the running application.
 
 ## Author
 - Fernandez Losavio, Luka (lfernandezlosavio@gmail.com)
+
+## Application start
+- Clone project in your $GOPATH and run using `go run main.go`. To install GOLANG check [URL](https://golang.org/doc/install).
 
 ## Dependencies
 

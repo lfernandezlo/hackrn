@@ -2,7 +2,7 @@
 - [Summary](#summary)
 - [Author](#author)
 - [Dependencies](#dependencies)
-- [Application start](#application\ start)
+- [Application start](#application%20start)
 - [Commands](#commands)
   - [Quit](#quit)
   - [Cd](#cd)
